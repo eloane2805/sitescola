@@ -1,0 +1,15 @@
+
+
+
+
+.container img TIGELA.jpg {
+    max-width: 20px;
+    max-height:25px;
+}
+.container {
+    clear: both;
+    margin-top: 20px;
+}
+img {
+    vertical-align: top
+}
